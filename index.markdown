@@ -23,6 +23,8 @@ layout: page
 
 <b>Банк</b>: АТ КБ «ПриватБанк»
 
+<a href="https://docs.google.com/document/d/15UbdoT-fkiEH0QwLlgPcK7pZ3xAMJItWX7DHTBVbo_Q/edit?usp=sharing">Кошторис для підключення будинку до Обленерго (гугл-документ)</a>
+
 <img width="200px" src="a292e9ad-f284-476a-8b79-49053e553cb7.jpg">
 <br clear="both" />
 
